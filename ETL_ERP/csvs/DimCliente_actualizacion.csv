@@ -1,0 +1,16 @@
+"ClienteID","NombreCliente","Genero","RangoEdad","Ciudad","SegmentoCliente"
+cli0001,Juliana García Medina,F,"56-65",Medellín,Regular
+Cli0003,Natalia Castro Rodríguez,F,"46-55",Bogotá,VIP
+cLI0005,Nicolás Rodríguez Vargas,M,"56-65",Medellín,Regular
+cli0007,David García Cardona,M,"46-55",Barranquilla,Regular
+CLI0009,Julián Pérez Herrera,M,"56-65",Bogotá,VIP
+cli0012,Santiago López González,M,"26-35",Cali,Regular
+Cli0016,Adriana Restrepo Gómez,F,"26-35",Bucaramanga,Regular
+cli0019,Lucía Ramírez García,F,"36-45",Bogotá,Regular
+cLi0022,Camila Torres Pérez,F,"26-35",Cali,Regular
+cli0025,Jorge González Ríos,M,"36-45",Barranquilla,VIP
+Cli0030,Mateo Jiménez Ortiz,M,"18-25",Barranquilla,VIP
+cli0038,Daniela Gómez Torres,F,"56-65",Medellín,VIP
+cLI0043,Lucía Vargas Cardona,F,"66+",Medellín,Regular
+cli0050,Ricardo González Gómez,M,"26-35",Bogotá,VIP
+Cli0061,Sebastián Medina López,M,"56-65",Bogotá,Regular

@@ -1,0 +1,16 @@
+"ProductoID","NombreProducto","MarcaProducto","NombreCategoria","NombreProveedor","PaisProveedor","PrecioListado"
+prd002,Audífonos con cable,SoundMax,Audio,Global Sound Supplies,China,54500
+Prd004,Barra de sonido 2.1,BassPro,Audio,Andina Electrónica S.A.S.,Colombia,449000
+pRD006,Parlante para fiestas,BassPro,Audio,Andina Electrónica S.A.S.,Colombia,789500
+prd008,"Portátil 15"" gama media",ComputTech,Equipos de computo,NorthWave Electronics,Estados Unidos,3199000
+PRD010,Computador de escritorio,CoreLogic,Equipos de computo,Bogotá Componentes Ltda.,Colombia,1985500
+prD012,Monitor gamer 27 pulgadas,NexaByte,Equipos de computo,USA Gadgets Inc.,Estados Unidos,1799000
+prd014,Mouse inalámbrico,CoreLogic,Equipos de computo,Bogotá Componentes Ltda.,Colombia,124500
+Prd016,Smartphone gama alta,ZaviTech,Celulares,TechImport de México,México,1777777
+prd018,Smartphone plegable,Zentra,Celulares,Seoul Devices Co.,Corea del Sur,4899000
+pRd020,Cargador rápido,PixelWave,Celulares,Maquilas del Norte,México,64500
+prd022,Freidora de aire,KitchenPro,Electrodomésticos,Nordic Home Appliances,Alemania,285500
+PrD024,Aspiradora robot,HomeTech,Electrodomésticos,Nordic Home Appliances,Alemania,1099000
+prd028,Power bank 10000mAh,PowerGo,Accesorios,Global Sound Supplies,China,104000
+Prd033,Consola de videojuegos,GameZone,Videojuegos,USA Gadgets Inc.,Estados Unidos,1849500
+prd036,Silla gamer,ArenaTech,Videojuegos,Pacífico Distribuciones,Colombia,519000
