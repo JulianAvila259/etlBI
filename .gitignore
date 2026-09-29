@@ -1,0 +1,22 @@
+# Entorno virtual de Python
+venv/
+.venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Editor y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Registros
+*.log
+
+# .env NO se ignora a propósito: no contiene información confidencial y debe quedar en el repositorio.
+
+# La base de datos SQLite queda versionada. Si prefieres no subirla, descomenta la siguiente línea:
+# instance/*.db
